@@ -1,7 +1,7 @@
 # LiftProject
 As part of a first year university module called Data Structures and Algorithms, we were given a project to create a simulation of a lift in a building. We were then to attempt to optimise this lift.
 
-##The Algorithms
+## The Algorithms
 ### The Mechanical Algorithm
 The most basic algorithm. The lift travels from the bottom to the top of the building until all people are delivered to their destination.
 
