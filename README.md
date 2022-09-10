@@ -16,7 +16,7 @@ The algorithm uses recursion to test every possible (sensible) path that the lif
 ### Submission Video
 https://www.youtube.com/watch?v=KfQjE0Gh2-M
 ### The main GUI 
-![image](https://user-images.githubusercontent.com/42321644/189490972-6a0d7d61-b701-45eb-bcb6-bda2895d0767.png | width=200)
+![image](https://user-images.githubusercontent.com/42321644/189490972-6a0d7d61-b701-45eb-bcb6-bda2895d0767.png)
 There are many controls here to adapt the simulation:
   * The number of floors in the building
   * The number of people spawned at the beginning of the simulation
@@ -24,8 +24,8 @@ There are many controls here to adapt the simulation:
   * Which algorithms you want to visualise
 
 The simulation visualization opens a window to display the route e.g.
-![image](https://user-images.githubusercontent.com/42321644/189491005-75540892-1372-4881-9dd3-885cebe6b96b.png | width=200)
+![image](https://user-images.githubusercontent.com/42321644/189491005-75540892-1372-4881-9dd3-885cebe6b96b.png)
 
 ### Results Analysis
 To visualise how well the algorithms perform, I stored the results data and enabled the creation of graphs through the GUI. e.g.
-![image](https://user-images.githubusercontent.com/42321644/189490865-610c2227-b301-4f2f-adf9-c620e5f2e140.png | width=200)
+![image](https://user-images.githubusercontent.com/42321644/189490865-610c2227-b301-4f2f-adf9-c620e5f2e140.png)
